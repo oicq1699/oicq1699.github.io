@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-[test](test.md)
+[test](/test.md)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
